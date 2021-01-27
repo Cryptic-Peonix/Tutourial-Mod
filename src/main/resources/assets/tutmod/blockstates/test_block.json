@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "tutmod:block/test_block"
+		}
+	}
+}

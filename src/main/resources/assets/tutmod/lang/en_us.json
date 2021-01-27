@@ -1,0 +1,25 @@
+{
+	//Items
+	"item.tutmod.test_item": "Test Item",
+	"item.tutmod.cherry": "Cherry",
+	"item.tutmod.cherry_pie": "Cherry Pie",
+	"item.tutmod.wooden_hammer": "Wooden Hammer",
+	"item.tutmod.stone_hammer": "Stone Hammer",
+	"item.tutmod.iron_hammer": "Iron Hammer",
+	"item.tutmod.gold_hammer": "Gold Hammer",
+	"item.tutmod.diamond_hammer": "Diamond Hammer",
+	"item.tutmod.netherite_hammer": "Netherite Hammer",
+	
+	//Blocks
+	"block.tutmod.test_block": "Test Block",
+	
+	//Enchantments
+	"enchantment.tutmod.magic_protection": "Magic Protection",
+	"enchantment.tutmod.lava_walker": "Lava Walker",
+	"enchantment.tutmod.hammer_bashing": "Bashing",
+	"enchantment.tutmod.thundering": "Thundering",
+	
+	//Damage Sources
+	"death.attack.hammer": "%1$s was smashed by %2$s",
+  	"death.attack.hammer.item": "%1$s was smashed by %2$s with %3$s"
+}
